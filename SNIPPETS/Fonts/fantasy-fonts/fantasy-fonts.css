@@ -1,0 +1,43 @@
+
+@font-face {
+    font-family: 'Crom Regular';
+    src: url('./crom_v1-webfont.woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Hamlet Regular';
+    src: url('./hamletregular-webfont.woff2');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Primitive';
+    src: url('./primitive-webfont.woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Hamlet Cicero';
+    src: url('./hamlet-cicero12-webfont.woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Hamlet Tertia';
+    src: url('./hamlet-tertia18-webfont.woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Beyond Wonderland';
+    src: url('./beyond-wonderland.regular-webfont.woff2');
+    font-weight: normal;
+    font-style: normal;
+}
